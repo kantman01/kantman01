@@ -3,7 +3,7 @@
 </h3>
 
 
-- 🔭 I’m currently working on **My website which is about general knowledge and history in general.**
+- 🔭 I’m currently working on **my website which is about general knowledge and history in general.**
 
 - 🌱 I’m currently learning **Java, HTML and CSS**
 
