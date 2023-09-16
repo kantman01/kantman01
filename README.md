@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sönmez Sarp Kantman</h1>
-<h3 align="center">I'm a software engineer student who loves to focusing things on by one.
+<h3 align="center">I'm a software engineer student who loves to focusing things one by one.
 </h3>
 
 
