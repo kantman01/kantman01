@@ -1,27 +1,134 @@
-<h1 align="center">Hi 👋, I'm Sönmez Sarp Kantman</h1>
-<h3 align="center">I'm a software engineer student who loves to focusing things one by one.
-</h3>
+<h1 align="center">Sönmez Sarp Kantman</h1>
+<h3 align="center">Building AI Systems, Cultural Maps & Intelligent Platforms</h3>
 
-
-- 🔭 I’m currently working on **my website which is about general knowledge and history in general.**
-
-- 🌱 I’m currently learning **Java, HTML and CSS**
-
-- 📫 How to reach me **sarpkantman@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kantman_sonmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kantman_sonmez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sönmez sarp kantman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sönmez sarp kantman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22572205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22572205" height="30" width="40" /></a>
+<p align="center">
+  <i>“Ars longa, vita non brevis.”</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+---
 
+## 🧠 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kantman01&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="kantman01" /></p>
+I build systems that connect **technology, culture, and intelligence**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kantman01&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="kantman01" /></p>
+- 🧭 Creating **CultureGraph** → a network map of human culture (100K+ nodes)
+- 🤖 Building **AI-powered RAG systems** for real-world applications
+- 🏛️ Developing **cultural mapping platforms** (Epigraph Lens / Keşif Paneli)
+- 📊 Working on **AI-driven business & stock prediction systems**
+- 🌍 Turning travel into **structured data & interactive maps**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kantman01&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="kantman01" /></p>
+I don’t just write code.  
+I design systems that **think, connect, and evolve.**
+
+---
+
+## ⚙️ Current Focus
+
+- 🧠 Advanced **RAG Architectures (Retrieval + Reasoning)**
+- 🗺️ Interactive **Geo + Cultural Data Systems**
+- 🤖 AI Agents & Multi-agent simulations
+- 📦 Full-stack systems (React + Node.js)
+- 🧩 Data structuring & knowledge graphs
+
+---
+
+## 🚀 Projects
+
+### 🔷 CultureGraph
+> A living map of human culture
+
+- 100,000+ nodes (philosophy, cinema, literature, history)
+- Relationship-based knowledge system
+- AI-generated contextual explanations
+
+---
+
+### 🔷 NextArkman (AI Support System)
+> RAG-powered assistant for ERP & travel systems
+
+- Multi-source retrieval (UI + tickets + docs)
+- Self-healing retrieval system
+- Real-time AI assistance for agents
+
+---
+
+### 🔷 Epigraph Lens / Keşif Paneli
+> Cultural & historical discovery platform
+
+- Interactive map of historical locations
+- OCR + AI translation (Greek, Ottoman, etc.)
+- Structured cultural database
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- JavaScript / TypeScript
+- Python
+- Java
+- C
+
+**Frontend**
+- React
+- HTML / CSS
+- Bootstrap / MUI
+
+**Backend**
+- Node.js / Express
+- REST APIs
+
+**AI & Data**
+- OpenAI / LLM APIs
+- RAG Systems
+- Vector Databases
+- Embeddings
+
+**Tools**
+- Git / GitHub
+- Postman
+- VS Code
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://twitter.com/kantman_sonmez" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/sönmez sarp kantman" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/22572205" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
+</a>
+</p>
+
+📫 sarpkantman@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kantman01&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kantman01&theme=transparent" />
+</p>
+
+---
+
+## 🧭 Vision
+
+Building systems that map:
+
+- Culture
+- Knowledge
+- Human behavior
+- Intelligence itself
+
+---
+
+<p align="center">
+  <i>This is just the beginning.</i>
+</p>
