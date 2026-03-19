@@ -61,35 +61,7 @@ I design systems that **think, connect, and evolve.**
 
 ---
 
-## 🛠️ Tech Stack
 
-**Languages**
-- JavaScript / TypeScript
-- Python
-- Java
-- C
-
-**Frontend**
-- React
-- HTML / CSS
-- Bootstrap / MUI
-
-**Backend**
-- Node.js / Express
-- REST APIs
-
-**AI & Data**
-- OpenAI / LLM APIs
-- RAG Systems
-- Vector Databases
-- Embeddings
-
-**Tools**
-- Git / GitHub
-- Postman
-- VS Code
-
----
 
 
 ## 📊 GitHub Stats
